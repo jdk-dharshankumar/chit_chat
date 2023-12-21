@@ -1,2 +1,3 @@
 # chit_chat
-#chit-chat
+
+> Chatting using GUI and IP
